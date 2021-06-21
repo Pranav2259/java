@@ -1,4 +1,4 @@
-public class Hello_world {
+public class Task1 {
 
 	public static void main(String[] args) {
 	
