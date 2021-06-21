@@ -1,6 +1,6 @@
 package basics;
 
-public class array1 {
+public class Task4 {
 
 	public static void main(String[] args) {
 		int a[][]={{1,3,4},{2,4,3},{3,4,5}};
