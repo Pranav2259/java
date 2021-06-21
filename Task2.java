@@ -1,6 +1,6 @@
 package basics;
 
-public class Conversions1 {
+public class Task2 {
 
 	static int Mins = 3456789;
 	static int Years = Mins / 525600 ;
